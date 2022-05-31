@@ -31,7 +31,7 @@ h1 {
     max-width: 1080px;
 }
 
-/* ul {
+ ul {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     grid-gap: 1em;
@@ -42,10 +42,11 @@ li {
     border: 1px solid black;
     padding: 2px;
 }
+a{color: #fff;}
 p {
     margin: 10px;
     align-content: center;
-} */
+}
 
 @media screen and (min-width: 520px){
     .menu{
